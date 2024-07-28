@@ -54,7 +54,7 @@ def calculate_duration(dep_time, arr_time):
     return duration
 
 # Layout for the title
-st.markdown("<h1 style='text-align: center;'>Flight Fare Prediction - By Chandhini Kerachan Muraleedharan</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>AirFare Prediction - By Chandhini Kerachan Muraleedharan</h1>", unsafe_allow_html=True)
 
 # Two-column layout
 col1, col2 = st.columns(2)
